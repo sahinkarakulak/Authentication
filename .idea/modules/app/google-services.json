@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656148833893",
+    "firebase_url": "https://auth1-91ff0.firebaseio.com",
+    "project_id": "auth1-91ff0",
+    "storage_bucket": "auth1-91ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656148833893:android:df37c45de6263198f8c88c",
+        "android_client_info": {
+          "package_name": "com.mrcaracal.auth1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656148833893-72ajhvp0gma8k1pr54ikq67isqdu7hbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrcaracal.auth1",
+            "certificate_hash": "d67b14810cdfa50e0c2bbc6c39d50e8835afcc93"
+          }
+        },
+        {
+          "client_id": "656148833893-hcaqsfbv7l7sm5emp83p5a0u1tvae4p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8YmZ6jxWtPpxL-gv35H8uuU0Pi5YDqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656148833893-hcaqsfbv7l7sm5emp83p5a0u1tvae4p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

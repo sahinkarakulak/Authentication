@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auth1</string>
+    <string name="click_here"> <u>Click Here</u></string>
+    <string name="click_here2"> <u>Click Account</u></string>
+</resources>
